@@ -3,7 +3,6 @@ const quoteElement = document.getElementById('quote');
 const authorElement = document.getElementById('author');
 const generateButton = document.getElementById('generate-quote');
 
-// Replace with your own list of quotes
 const quotes = [
     { text: 'The only way to do great work is to love what you do.', author: 'Steve Jobs' },
     { text: 'We can do anything we want to if we stick to it long enough.', author: 'Helen Keller' },
